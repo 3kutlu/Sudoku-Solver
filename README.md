@@ -4,4 +4,4 @@ for this example I screenshotted a random hard level Sudoku from www.sudoku.net 
 
 
 
-[pycharm64_f73d7WZpUs](https://user-images.githubusercontent.com/67983129/162599624-0f067caa-b58c-4c97-99df-eda90f0490cd.png)
+![pycharm64_f73d7WZpUs](https://user-images.githubusercontent.com/67983129/162599624-0f067caa-b58c-4c97-99df-eda90f0490cd.png)
